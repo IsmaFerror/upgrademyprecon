@@ -1,0 +1,21 @@
+// components/CheckoutFooter.tsx
+export default function CheckoutFooter({ totalPrice }: { totalPrice: string }) {
+  return (
+    <div className="fixed bottom-0 left-0 w-full bg-[#12151c] border-t border-gray-800 p-4 z-50 shadow-[0_-10px_25px_rgba(0,0,0,0.5)]">
+      <div className="max-w-3xl mx-auto flex items-center justify-between gap-4">
+        <div>
+          <p className="text-xs text-gray-400 uppercase tracking-wider font-semibold">Total estimado</p>
+          <p className="text-xl font-bold text-white">${totalPrice}</p>
+        </div>
+        
+        <button className="flex-1 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 text-white font-bold py-3 px-6 rounded-lg shadow-[0_0_15px_rgba(37,99,235,0.4)] transition-all flex justify-center items-center gap-2">
+          Comprar en TCGplayer
+          <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+            <path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z" />
+            <path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  );
+}

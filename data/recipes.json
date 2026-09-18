@@ -1,0 +1,33 @@
+{
+  "precons": [
+    {
+      "id": "explorers-of-the-deep",
+      "name": "Explorers of the Deep",
+      "commander_name": "Hakbal of the Surging Soul",
+      "release_year": 2023,
+      "upgrades": {
+        "budget_20": {
+          "label": "$20 Upgrade",
+          "cuts": [
+            {
+              "card_name": "Explore",
+              "reason": {
+                "en": "Too slow for this strategy, we prefer creature-based ramp.",
+                "es": "Lento para esta estrategia, preferimos ramp de criaturas."
+              }
+            }
+          ],
+          "adds": [
+            {
+              "card_name": "Kiora's Follower",
+              "reason": {
+                "en": "Dual purpose: untaps lands or key merfolks.",
+                "es": "Doble uso: endereza tierras o sirenas clave."
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
