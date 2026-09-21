@@ -1,0 +1,48 @@
+{
+  "id": "explorers-of-the-deep",
+  "name": "Explorers of the Deep",
+  "image": "https://api.scryfall.com/cards/named?exact=Hakbal+of+the+Surging+Soul&format=image",
+  "commander": "Hakbal of the Surging Soul",
+  "upgrades": {
+    "5": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet"]
+    },
+    "10": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver"]
+    },
+    "20": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle"]
+    },
+    "30": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams", "Raise the Palisade", "Cold-Eyed Selkie"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor"]
+    },
+    "40": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams", "Raise the Palisade", "Cold-Eyed Selkie", "Guardian Project"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor", "Emperor Mihail II"]
+    },
+    "50": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Herald of Secret Streams", "Raise the Palisade", "Cold-Eyed Selkie", "Guardian Project", "Kindred Discovery"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor", "Emperor Mihail II"]
+    },
+    "60": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams", "Raise the Palisade", "Cold-Eyed Selkie", "Guardian Project", "Kindred Discovery", "Thassa, God of the Sea"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor", "Emperor Mihail II", "Slinn Voda, the Rising Deep", "Commit // Memory"]
+    },
+    "80": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams", "Raise the Palisade", "Cold-Eyed Selkie", "Guardian Project", "Kindred Discovery", "Thassa, God of the Sea", "Heroic Intervention", "Ripples of Potential"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor", "Emperor Mihail II", "Slinn Voda, the Rising Deep", "Commit // Memory", "Quandrix Command", "Commander's Sphere"]
+    },
+    "100": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams", "Raise the Palisade", "Cold-Eyed Selkie", "Guardian Project", "Kindred Discovery", "Thassa, God of the Sea", "Heroic Intervention", "Ripples of Potential", "Roaming Throne"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor", "Emperor Mihail II", "Slinn Voda, the Rising Deep", "Commit // Memory", "Quandrix Command", "Commander's Sphere", "Myriad Landscape"]
+    },
+    "premium": {
+      "add": ["Deeproot Elite", "Forerunner of the Heralds", "Master of the Pearl Trident", "Vodalian Hexcatcher", "Inspiring Call", "Merrow Reejerey", "Realmwalker", "Hardened Scales", "Branching Evolution", "Herald of Secret Streams", "Raise the Palisade", "Guardian Project", "Kindred Discovery", "Roaming Throne", "Heroic Intervention", "Cyclonic Rift", "Otawara, Soaring City", "Boseiju, Who Endures", "Agatha's Soul Cauldron", "Fierce Guardianship"],
+      "remove": ["Benthic Biomancer", "Kumena's Awakening", "Zegana, Utopian Speaker", "Explore", "Simic Signet", "Temple of the False God", "Curse of the Swine", "Merfolk Skydiver", "Vineshaper Mystic", "Seafloor Oracle", "Prime Speaker Zegana", "Nicanzil, Current Conductor", "Emperor Mihail II", "Slinn Voda, the Rising Deep", "Commit // Memory", "Quandrix Command", "Commander's Sphere", "Myriad Landscape", "Path of Ancestry", "Mosswort Bridge"]
+    }
+  }
+}

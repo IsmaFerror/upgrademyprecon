@@ -1,0 +1,48 @@
+{
+  "id": "veloci-ramp-tor",
+  "name": "Veloci-Ramp-Tor",
+  "image": "https://api.scryfall.com/cards/named?exact=Pantlaza,+Sun-Favored&format=image",
+  "commander": "Pantlaza, Sun-Favored",
+  "upgrades": {
+    "5": {
+      "add": ["Trumpeting Carnosaur", "Regal Imperiosaur", "Kinjalli's Caller", "End-Raze Forerunners ", "Ghalta, Primal Hunger"],
+      "remove": ["Wakening Sun's Avatar", "Zetalpa, Primal Dawn", "Rampaging Brontodon", "Majestic Heliopterus", "Bellowing Aegisaur"]
+    },
+    "10": { 
+      "add": ["Elemental Bond", "Vanquisher's Banner", "Selvala, Heart of the Wilds"],
+      "remove": ["From the Rubble", "Descendants' Path", "Deathgorge Scavenger", "Runic Armasaur"]
+    },
+    "20": {
+      "add": ["Guardian Project", "The Skullspore Nexus"],
+      "remove": ["Shifting Ceratops", "Chandra's Ignition", " Wrathful Raptors"]
+    },
+    "30": {
+      "add": ["Etali, Primal Conqueror", "Bonehoard Dracosaur"],
+      "remove": ["Wakening Sun's Avatar", "Zetalpa, Primal Dawn", "Rampaging Brontodon", "Majestic Heliopterus"]
+    },
+    "40": {
+      "add": ["Craterhoof Behemoth", "Guardian Project", "Bonehoard Dracosaur"],
+      "remove": ["Shifting Ceratops", "Chandra's Ignition", "Wrathful Raptors", "From the Rubble"]
+    },
+    "50": {
+      "add": ["Devil Dinosaur", "Etali, Primal Conqueror"],
+      "remove": ["Wakening Sun's Avatar", "Zetalpa, Primal Dawn", "Rampaging Brontodon", "Majestic Heliopterus", "Deathgorge Scavenger", "Deathgorge Scavenger"]
+    },
+    "60": {
+      "add": ["Smothering Tithe", "Craterhoof Behemoth", "Rampant Growth", "Kogla and Yidaro"],
+      "remove": ["Shifting Ceratops", "Chandra's Ignition", "Wrathful Raptors", "From the Rubble", "Descendants' Path"]
+    },
+    "80": {
+      "add": ["Smothering Tithe", "Devil Dinosaur", "Etali, Primal Conqueror"],
+      "remove": ["Shifting Ceratops", "Chandra's Ignition", "Wrathful Raptors", "From the Rubble", "Descendants' Path", "Deathgorge Scavenger"]
+    },
+    "100": {
+      "add": ["Smothering Tithe", "Devil Dinosaur", "Etali, Primal Conqueror", "Craterhoof Behemoth"],
+      "remove": ["Shifting Ceratops", "Chandra's Ignition", "Wrathful Raptors", "From the Rubble", "Descendants' Path", "Regal Behemoth", "Verdant Sun's Avatar", "Thundering Spineback"]
+    },
+    "premium": {
+      "add": ["The Great Henge", "Hunting Velociraptor", "Smothering Tithe", "Devil Dinosaur", "Vaultborn Tyrant", "Welcome to . . . // Jurassic Park", "Etali, Primal Conqueror", "Craterhoof Behemoth", "Worldly Tutor", "Savage Order", "Surrak and Goreclaw", "Pathbreaker Ibex", "Tribute to the World Tree", "Majestic Genesis", "Curator of Sun's Creation", "Sneak Attack", "Savage Order", "Bonehoard Dracosaur", "Akroma's Will", "Roaming Throne", "Teferi's Protection", "The Great Henge", "Deflecting Swat", "Cavern of Souls"],
+      "remove":["Dinosaur Egg", "Atzocan Seer", "Majestic Heliopterus", "Bellowing Aegisaur", "Raging Regisaur", "Raging Swordtooth", "Thundering Spineback", "Rampaging Brontodon", "Zetalpa, Primal Dawn", "Regal Behemoth", "Scion of Calamity", "Shifting Ceratops", "Wayward Swordtooth", "Lifecrafter's Bestiary", "Progenitor's Icon", "From the Rubble", "Fiery Confluence", "Savage Stomp", "Migration Path", "Thunderherd Migration", "Arch of Orazca", "Rogue's Passage", "Kinjalli's Caller", "Trumpeting Carnosaur"]
+    }
+  }
+}

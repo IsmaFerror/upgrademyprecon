@@ -1,0 +1,48 @@
+{
+  "id": "blood-rites",
+  "name": "Blood Rites",
+  "image": "https://api.scryfall.com/cards/named?exact=Clavileño,+First+of+the+Blessed&format=image",
+  "commander": "Clavileño, First of the Blessed",
+  "upgrades": {
+    "5": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart"]
+    },
+    "10": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Corrupted Conviction", "Falkenrath Noble"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz"]
+    },
+    "20": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Corrupted Conviction", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger"]
+    },
+    "30": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Corrupted Conviction", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher", "Pitiless Plunderer", "Vampiric Rites"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk"]
+    },
+    "40": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Corrupted Conviction", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher", "Pitiless Plunderer", "Vampiric Rites", "Skullclamp"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk", "Sanctum Seeker"]
+    },
+    "50": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher", "Pitiless Plunderer", "Skullclamp", "Black Market Connections"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk"]
+    },
+    "60": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher", "Pitiless Plunderer", "Skullclamp", "Black Market Connections", "Warren Soultrader"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk", "Sanctum Seeker"]
+    },
+    "80": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher", "Pitiless Plunderer", "Skullclamp", "Black Market Connections", "Warren Soultrader", "Roaming Throne"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk", "Sanctum Seeker", "Damnable Pact"]
+    },
+    "100": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Welcoming Vampire", "Elenda, the Dusk Rose", "Carmen, Cruel Skymarcher", "Pitiless Plunderer", "Skullclamp", "Black Market Connections", "Warren Soultrader", "Roaming Throne", "Luminous Broodmoth"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk", "Sanctum Seeker", "Damnable Pact", "Commander's Sphere"]
+    },
+    "premium": {
+      "add": ["Viscera Seer", "Bartolomé del Presidio", "Cruel Celebrant", "Yahenni, Undying Partisan", "Village Rites", "Blood Artist", "Elenda, the Dusk Rose", "Pitiless Plunderer", "Black Market Connections", "Warren Soultrader", "Roaming Throne", "Skullclamp", "Luminous Broodmoth", "Anointed Procession", "Teferi's Protection", "Trouble in Pairs", "Exquisite Blood", "Vampiric Tutor", "Demonic Tutor", "Smothering Tithe"],
+      "remove": ["March of the Canonized", "Mavren Fein, Dusk Apostle", "Vona, Butcher of Magan", "Radiant Destiny", "Glass-Cast Heart", "Master of Dark Rites", "Timothar, Baron of Bats", "Promise of Aclazotz", "Crossway Troublemakers", "Nighthawk Scavenger", "Butcher of Malakir", "Champion of Dusk", "Sanctum Seeker", "Damnable Pact", "Commander's Sphere", "Temple of the False God", "Orzhov Basilica", "Myriad Landscape", "Isolated Chapel", "Windbrisk Heights"]
+    }
+  }
+}

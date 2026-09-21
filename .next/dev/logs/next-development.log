@@ -1,0 +1,173 @@
+{"timestamp":"00:00:00.680","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:01:17.508","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:26:58.006","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:32:23.046","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:32:57.807","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:33:16.899","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:39:45.923","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:43:42.008","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Wakening Sun's Avatar, Zetalpa, Primal Dawn\": 404"}
+{"timestamp":"00:44:53.947","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Wakening Sun's Avatar, Zetalpa, Primal Dawn\": 404"}
+{"timestamp":"00:44:54.471","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:48:35.301","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:52:13.823","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:52:27.003","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:54:54.097","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:13:31.183","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:14:02.776","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zetalpa\": 404"}
+{"timestamp":"01:14:16.595","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zetalpa\": 404"}
+{"timestamp":"01:16:18.868","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:16:26.152","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Scavenger\": 404"}
+{"timestamp":"01:16:42.220","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:16:43.917","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Chandra's Ignitionk\": 404"}
+{"timestamp":"01:17:43.899","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:18:18.920","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:18:20.105","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:18:25.465","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:20:25.546","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:21:10.463","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:25:58.238","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:26:02.125","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:26:17.700","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:27:23.267","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:39:05.247","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:39:09.203","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:39:09.910","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:39:10.072","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:40:51.141","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:41:13.193","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:42:25.381","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:42:26.184","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:42:28.112","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:42:28.273","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:42:28.428","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:42:28.530","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:44:20.174","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:46:05.411","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:46:08.108","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:48:55.242","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:46.896","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:47.826","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:48.036","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:48.169","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:52:07.193","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:29.023","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:54.677","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:55:10.665","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Paradox Sculptor\": 404"}
+{"timestamp":"01:55:10.694","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"01:55:10.698","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"01:55:10.801","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Paradox Sculptor\": 404"}
+{"timestamp":"01:55:11.084","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:55:58.926","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Paradox Sculptor\": 404"}
+{"timestamp":"01:55:59.202","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Paradox Sculptor\": 404"}
+{"timestamp":"01:55:59.467","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:56:22.734","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:59:51.605","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:01:44.443","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:06:29.413","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:08:28.016","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:11:57.651","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:18:57.991","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"02:18:58.121","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Rishkar\": 404"}
+{"timestamp":"02:18:58.139","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"O'aka\": 404"}
+{"timestamp":"02:18:58.147","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Sphere X\": 404"}
+{"timestamp":"02:18:58.152","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Rishkar\": 404"}
+{"timestamp":"02:18:58.153","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:18:58.561","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:18:58.766","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"02:19:00.786","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:20:06.162","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Sphere X\": 404"}
+{"timestamp":"02:20:06.424","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:20:08.375","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"O'aka\": 404"}
+{"timestamp":"02:20:08.397","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Rishkar\": 404"}
+{"timestamp":"02:20:08.660","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Rishkar\": 404"}
+{"timestamp":"02:20:09.986","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:20:10.274","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:20:11.385","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"02:20:11.468","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"02:20:14.312","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:20:14.600","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:20:14.942","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"02:20:15.027","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Zimone\": 404"}
+{"timestamp":"02:26:06.086","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:26:07.427","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:26:11.143","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:26:11.303","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Tekuthal\": 404"}
+{"timestamp":"02:26:27.321","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"O'aka\": 404"}
+{"timestamp":"02:26:27.323","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Rishkar\": 404"}
+{"timestamp":"02:26:27.482","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Rishkar\": 404"}
+{"timestamp":"02:28:07.723","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:31:12.066","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:39:59.328","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:40:08.903","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:40:38.019","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:41:29.443","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:41:47.280","source":"Server","level":"ERROR","message":"[DataLoader] Error al buscar el mazo con id \"counter-blitz\": SyntaxError: Expected ',' or ']' after array element in JSON at position 1096 (line 46 column 9)"}
+{"timestamp":"02:41:47.348","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:41:51.599","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:42:34.591","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:43:00.586","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:46:01.266","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:46:41.623","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:53:47.069","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:57:24.372","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:58:02.304","source":"Server","level":"ERROR","message":"[DataLoader] Error al buscar el mazo con id \"counter-blitz\": SyntaxError: Unexpected token ']', ...\"\",\r\n      ],\r\n      \"... is not valid JSON"}
+{"timestamp":"02:58:02.379","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:58:04.385","source":"Server","level":"ERROR","message":"[DataLoader] Error al buscar el mazo con id \"counter-blitz\": SyntaxError: Unexpected token ']', ...\"\",\r\n      ],\r\n      \"... is not valid JSON"}
+{"timestamp":"02:58:04.461","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"02:58:09.236","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:00:12.641","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:00:12.666","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:00:14.979","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:00:42.286","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:00:44.777","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:00:50.374","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:00:52.872","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:01:26.207","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:02:05.817","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:02:05.821","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:02:08.312","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:02:18.041","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:02:18.047","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:02:20.102","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:02:33.871","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:02:33.874","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:02:36.378","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:05:38.050","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:05:38.055","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:05:39.552","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:06:17.477","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:06:17.487","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:06:18.954","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:06:19.727","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:06:19.732","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:07:10.706","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:07:10.713","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:07:12.183","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:07:14.964","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:07:14.966","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:07:16.395","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:07:18.810","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:07:18.814","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:07:20.298","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:07:58.189","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:07:58.193","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:07:59.678","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:08:06.569","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Kihahri\": 404"}
+{"timestamp":"03:08:06.571","source":"Server","level":"ERROR","message":"[Scryfall API] Error buscando \"Basic Island\": 404"}
+{"timestamp":"03:08:08.044","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:08:30.232","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:10:27.265","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:10:35.550","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:10:45.107","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:10:51.504","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:10:57.407","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:11:08.243","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:11:13.795","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:12:49.756","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:14:24.379","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:14:48.648","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:15:29.270","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:15:48.297","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:19:45.705","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:22:45.458","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:23:14.200","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

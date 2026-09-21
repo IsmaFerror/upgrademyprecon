@@ -1,28 +1,26 @@
-import { ScryfallCardData } from "./types";
-
-const SCRYFALL_API_BASE = "https://api.scryfall.com";
+import { ScryfallCardData } from './types';
 
 export async function getCardByName(name: string): Promise<ScryfallCardData | null> {
   try {
-    // Extendemos el tipo nativo para que TS acepte la extensión de Next.js
-    const fetchOptions: RequestInit & { next?: { revalidate: number } } = {
-      next: { revalidate: 86400 },
-    };
-
-    const response = await fetch(
-      `${SCRYFALL_API_BASE}/cards/named?exact=${encodeURIComponent(name)}`,
-      fetchOptions
-    );
+    const url = `https://api.scryfall.com/cards/named?exact=${encodeURIComponent(name)}`;
+    
+    // Añadimos el User-Agent para que Scryfall no nos detecte como un bot malicioso
+    const response = await fetch(url, { 
+      headers: {
+        'User-Agent': 'UpgradeMyPrecon/1.0',
+        'Accept': 'application/json'
+      },
+      next: { revalidate: 86400 } // Caché de 24 horas activa
+    });
 
     if (!response.ok) {
-      console.error(`[Scryfall API] Error buscando la carta "${name}":`, response.statusText);
+      console.error(`[Scryfall API] Error buscando "${name}": ${response.status}`);
       return null;
     }
 
-    const data: ScryfallCardData = await response.json();
-    return data;
+    return await response.json();
   } catch (error) {
-    console.error(`[Scryfall API] Fallo de red al buscar la carta "${name}":`, error);
+    console.error(`[Scryfall API] Fallo crítico con "${name}":`, error);
     return null;
   }
 }

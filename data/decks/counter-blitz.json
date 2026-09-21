@@ -1,0 +1,246 @@
+{
+  "id": "counter-blitz",
+  "name": "Counter Blitz (Final Fantasy X)",
+  "image": "https://api.scryfall.com/cards/named?exact=Tidus%2C%20Yuna%27s%20Guardian&format=image",
+  "commander": "Tidus, Yuna's Guardian",
+  "upgrades": {
+    "5": {
+      "add": [
+        "Rishkar, Peema Renegade",
+        "The Earth Crystal"
+      ],
+      "remove": [
+        "Generous Patron",
+        "Yuna's Whistle",
+        "Lord Jyscal Guado"
+      ]
+    },
+    "10": {
+      "add": [
+        "Kami of Whispered Hopes",
+        "Herald of Secret Streams",
+        "Kutzil, Malamet Exemplar"
+      ],
+      "remove": [
+        "Tireless Tracker",
+        "Summoner's Sending",
+        "Sunscorch Regent"
+      ]
+    },
+    "20": {
+      "add": [
+        "Tekuthal, Inquiry Dominus",
+        "Tribute to the World Tree",
+        "Ripples of Potential"
+      ],
+      "remove": [
+        "Altered Ego",
+        "Path of Discovery",
+        "Pull from Tomorrow"
+      ]
+    },
+    "30": {
+      "add": [
+        "Branching Evolution",
+        "The Earth Crystal",
+        "Heroic Intervention",
+        "Simic Ascendancy"
+      ],
+      "remove": [
+        "Fight Rigging",
+        "Protection Magic",
+        "Summon: Magus Sisters"
+      ]
+    },
+    "40": {
+      "add": [
+        "Kutzil, Malamet Exemplar",
+        "Sovereign Okinec Ahau",
+        "Branching Evolution",
+        "Conclave Mentor",
+        "Mutational Advantage",
+        "Arwen, Mortal Queen",
+        "Brokers Ascendancy",
+        "Agent's Toolkit",
+        "Denry Klin, Editor in Chief",
+        "Tekuthal, Inquiry Dominus",
+        "Botanical Brawler"
+      ],
+      "remove": [
+        "Chasm Skulker",
+        "Sin, Unending Cataclysm",
+        "Summon: Magus Sisters",
+        "Summon: Ixion",
+        "Summoner's Sending",
+        "Rampant Rejuvenator",
+        "Promise of Loyalty",
+        "Sunscorch Regent",
+        "Yuna's Decision",
+        "Path of Discovery",
+        "Generous Patron"
+      ]
+    },
+    "50": {
+      "add": [
+        "Arwen, Mortal Queen",
+        "Falco Spara, Pactweaver",
+        "Rejuvenating Springs",
+        "The Earth Crystal",
+        "Dreamtide Whale",
+        "Thrummingbird",
+        "Branching Evolution",
+        "Botanical Sanctum",
+        "Tekuthal, Inquiry Dominus",
+        "The Earth Crystal"
+      ],
+      "remove": [
+        "Generous Patron",
+        "Tireless Tracker",
+        "Rampant Rejuvenator",
+        "Lord Jyscal Guado",
+        "Sunscorch Regent",
+        "Summon: Magus Sisters",
+        "Sin, Unending Cataclysm"
+      ]
+    },
+    "60": {
+      "add": [
+        "Kutzil, Malamet Exemplar",
+        "Sovereign Okinec Ahau",
+        "Branching Evolution",
+        "Conclave Mentor",
+        "Botanical Brawler",
+        "Mutational Advantage",
+        "Arwen, Mortal Queen",
+        "Brokers Ascendancy",
+        "Agent's Toolkit",
+        "Denry Klin, Editor in Chief",
+        "Tekuthal, Inquiry Dominus",
+        "The Earth Crystal",
+        "Kami of Whispered Hopes",
+        "Thrummingbird",
+        "Dreamtide Whale",
+        "Herald of Secret Streams"
+      ],
+      "remove": [
+        "Chasm Skulker",
+        "Sin, Unending Cataclysm",
+        "Generous Patron",
+        "Summon: Magus Sisters",
+        "Summon: Ixion",
+        "Summoner's Sending",
+        "Rampant Rejuvenator",
+        "Promise of Loyalty",
+        "Sunscorch Regent",
+        "Yuna's Decision",
+        "Path of Discovery",
+        "Tireless Tracker",
+        "Lord Jyscal Guado",
+        "Pull from Tomorrow",
+        "Altered Ego",
+        "Temple of the False God",
+        "Vineglimmer Snarl",
+        "Fathom Mage",
+        "O'aka, Traveling Merchant"
+      ]
+    },
+    "80": {
+      "add": [
+    "Arwen, Mortal Queen",
+    "Branching Evolution",
+    "Botanical Brawler",
+    "Mutational Advantage",
+    "The Earth Crystal",
+    "Thrummingbird",
+    "Herald of Secret Streams",
+    "Conclave Mentor",
+    "Teferi's Protection",
+    "Innkeeper's Talent"
+  ],
+  "remove": [
+    "Rampant Rejuvenator",
+    "Generous Patron",
+    "Summon: Ixion",
+    "Summoner's Sending",
+    "Tireless Tracker",
+    "Pull from Tomorrow",
+    "Temple of the False God",
+    "Summon: Magus Sisters",
+    "Path of Discovery",
+    "Lord Jyscal Guado"
+  ]
+},
+    "100": {
+      "add": [
+    "Tekuthal, Inquiry Dominus",
+    "Arwen, Mortal Queen",
+    "Branching Evolution",
+    "Botanical Brawler",
+    "Mutational Advantage",
+    "The Earth Crystal",
+    "Kami of Whispered Hopes",
+    "Thrummingbird",
+    "Dreamtide Whale",
+    "Herald of Secret Streams",
+    "Kutzil, Malamet Exemplar",
+    "Conclave Mentor",
+    "Sovereign Okinec Ahau",
+    "The Ozolith",
+    "Innkeeper's Talent"
+  ],
+  "remove": [
+    "Chasm Skulker",
+    "Sin, Unending Cataclysm",
+    "Generous Patron",
+    "Summon: Magus Sisters",
+    "Summon: Ixion",
+    "Summoner's Sending",
+    "Rampant Rejuvenator",
+    "Promise of Loyalty",
+    "Sunscorch Regent",
+    "Yuna's Decision",
+    "Path of Discovery",
+    "Tireless Tracker",
+    "Lord Jyscal Guado",
+    "Pull from Tomorrow",
+    "Altered Ego",
+    "Temple of the False God",
+    "Vineglimmer Snarl",
+    "Fathom Mage",
+    "O'aka, Traveling Merchant",
+    "Bane of Progress",
+    "Kimahri, Valiant Guardian",
+    "Felidar Retreat",
+    "Simic Ascendancy",
+    "Island",
+    "Everflowing Chalice"
+  ]
+},
+    "premium": {
+      "add": [
+        "Tekuthal, Inquiry Dominus",
+        "Doubling Season",
+        "Branching Evolution",
+        "Botanical Brawler",
+        "Arwen, Mortal Queen",
+        "The Ozolith",
+        "Teferi's Protection",
+        "Crystalline Giant",
+        "Karn's Bastion",
+        "Herald of Secret Streams"
+      ],
+      "remove": [
+        "Generous Patron",
+        "Tireless Tracker",
+        "Lord Jyscal Guado",
+        "Path of Discovery",
+        "Pull from Tomorrow",
+        "Summon: Magus Sisters",
+        "Summoner's Sending",
+        "Rampant Rejuvenator",
+        "Sunscorch Regent",
+        "Yuna's Decision"
+      ]
+    }
+  }
+}
